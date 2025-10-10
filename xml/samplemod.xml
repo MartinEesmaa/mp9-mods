@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SSQ" />
+	<options>
+		<section name="/Sample mod by Martin Eesmaa (MP9)">
+			<option name="/Sample mod by Martin Eesmaa (MP9)">
+				<choice name="Enabled">
+					<patch id="samplemodFD" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="samplemodFD">
+		<folder external="/samplemod" recursive="true" />
+		<folder external="/samplemod" disc="/" />
+	</patch>
+</wiidisc>
