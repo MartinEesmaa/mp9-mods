@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SSQ" />
+	<options>
+		<section name="MP9 Eesti keel">
+			<option name="Tõlkija: Martin Eesmaa">
+				<choice name="Enabled">
+					<patch id="eestiMP9FD" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="eestiMP9FD">
+		<folder external="/" recursive="true" />
+		<folder external="/eestikeelMP9" disc="/" />
+	</patch>
+</wiidisc>
