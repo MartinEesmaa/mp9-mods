@@ -1,0 +1,24 @@
+<!-->
+Mod title: Arnold from Hey Arnold! (MP9)
+Model used at Sketchfab from Cheryl Hill
+Link original model: https://sketchfab.com/3d-models/nsbu-arnold-f3a1af9995794a6a917f7cccd9a234c5
+Original model license: CC-BY 4.0 Attribution
+Mod experiment: Martin Eesmaa
+<-->
+
+<wiidisc version="1">
+	<id game="SSQ" />
+	<options>
+		<section name="/Arnold from Hey Arnold! character (MP9)">
+			<option name="/VERY EXPERIMENTAL mod by Martin Eesmaa">
+				<choice name="Enabled">
+					<patch id="arnoldhaFD" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="arnoldhaFD">
+		<folder external="/arnoldha" recursive="true" />
+		<folder external="/arnoldha" disc="/" />
+	</patch>
+</wiidisc>
