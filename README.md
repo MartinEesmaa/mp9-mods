@@ -13,14 +13,28 @@ For example if you want to install my samplemod...
 
 Mods can be installed on Dolphin Emulator following directory:
 
+Windows (note for OneDrive: replace `Documents` by `OneDrive\Documents`):
+
 ```
-Documents/Dolphin Emulator/Load/Riivolution/
+%userprofile%\Documents\Dolphin Emulator\Load\Riivolution\
 ```
 
 Linux (Flatpak):
 
 ```
 ~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/Load/Riivolution
+```
+
+macOS:
+
+```
+~/Library/Application Support/Dolphin/Load/Riivolution
+```
+
+Android:
+
+```
+Android/data/org.dolphinemu.dolphinemu/files/Load/Riivolotion
 ```
 
 Ensure you created a empty directory called riivolution in Riivolution subdirectory.
