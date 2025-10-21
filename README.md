@@ -22,6 +22,8 @@ Translated/reviewed strings total is 466.
 
 20.10.2025
 
+Kokku sõnad koos tühjad / Total strings with empty: 3931
+
 ## Install mods
 
 To load the mod files, you can download by pressing green button on GitHub
