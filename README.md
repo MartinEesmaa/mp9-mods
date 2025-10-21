@@ -24,6 +24,8 @@ Translated/reviewed strings total is 466.
 
 Kokku sõnad koos tühjad / Total strings with empty: 3931
 
+Pooleli tõlgimise / Partial translation video: https://www.youtube.com/watch?v=Bv_afFAJJT8
+
 ## Install mods
 
 To load the mod files, you can download by pressing green button on GitHub
