@@ -16,11 +16,13 @@ English of eestikeelmp9.xml - Estonian translation by Martin Eesmaa
 
 ### Estonian translation
 
-Tõlkitud/ülevaatanud sõnad kokku on 466.
+Tõlkitud/ülevaatanud sõnad kokku on 555.
 
-Translated/reviewed strings total is 466.
+Translated/reviewed strings total is 555.
 
 20.10.2025
+
+Muudetud/Updated: 21.10.2025
 
 Kokku sõnad koos tühjad / Total strings with empty: 3931
 
