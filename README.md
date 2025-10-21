@@ -41,7 +41,7 @@ Ensure you created a empty directory called riivolution in Riivolution subdirect
 
 Once you downloaded, please copy the samplemod folder into Riivolution.
 
-And the XML file of `samplemod.xml` on xml folder will need to be copied also into riivolution folder next from Riivolution folder.
+And the XML file of `samplemod.xml` on riivolution folder will need to be copied also into riivolution folder next from Riivolution folder.
 
 Go ahead and open Dolphin Emulator, right click the game and click Start with Riivolution patches...
 
