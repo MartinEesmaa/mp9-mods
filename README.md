@@ -6,6 +6,24 @@ Original game owned by Nintendo of Mario Party 9 on Wii.
 
 See the example of samplemod folder.
 
+## Mod report status
+
+```
+samplemod.xml - My sample mod
+eestikeelmp9.xml - Eesti tõlkimiseprojekt Martin Eesmaa-lt
+English of eestikeelmp9.xml - Estonian translation by Martin Eesmaa
+```
+
+### Estonian translation
+
+Tõlkitud/ülevaatanud sõnad kokku on 466.
+
+Translated/reviewed strings total is 466.
+
+20.10.2025
+
+## Install mods
+
 To load the mod files, you can download by pressing green button on GitHub
 or git clone it.
 
