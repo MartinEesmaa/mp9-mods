@@ -10,19 +10,19 @@ See the example of samplemod folder.
 
 ```
 samplemod.xml - My sample mod
-eestikeelmp9.xml - Eesti tõlkimiseprojekt Martin Eesmaa-lt
+eestikeelmp9.xml - Eesti Tõlgimiseprojekt Martin Eesmaa-lt
 English of eestikeelmp9.xml - Estonian translation by Martin Eesmaa
 ```
 
 ### Estonian translation
 
-Tõlkitud/ülevaatanud sõnad kokku on 555.
+Tõlgitud/ülevaatanud sõnad kokku on 628.
 
-Translated/reviewed strings total is 555.
+Translated/reviewed strings total is 628.
 
 20.10.2025
 
-Muudetud/Updated: 21.10.2025
+Muudetud/Updated: 22.10.2025
 
 Kokku sõnad koos tühjad / Total strings with empty: 3931
 
